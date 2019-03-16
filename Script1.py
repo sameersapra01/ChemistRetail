@@ -1,4 +1,4 @@
-
+#this is a simple python program which takes 3 user inputs from user.
 print('Interest Calculator:')
 
 amount = float(input('Principal amount ?'))
